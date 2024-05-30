@@ -1,5 +1,5 @@
 # System-Design-Learning
-Build a micro service system for user to login (using JWT authorization) and upload/convert/download audio file using Python, Flask, Docker, Kubernetes, RabbitMQ, and MongoDB
+Build a micro service system for user to login and upload/convert/download audio file using Python, Flask, Docker, Kubernetes, RabbitMQ, and MongoDB
 
 ## Architecture Diagram
 ![image](https://github.com/nhatduy227/System-Design-Learning/assets/53373898/7d7e47a4-dc51-4ee4-aefa-fc275b01f95a)
